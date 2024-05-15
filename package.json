@@ -1,0 +1,17 @@
+{
+  "name": "hall-booking-api-day-38",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "express": "^4.19.2"
+  }
+}
